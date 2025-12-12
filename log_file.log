@@ -1,0 +1,5 @@
+2025-01-10 12:10:05 INFO User logged in from 192.168.1.10
+2025-01-10 12:10:06 WARNING Password attempts high
+2025-01-10 12:10:10 ERROR Database connection failed
+2025-01-10 12:10:12 INFO Request from 10.0.0.5
+2025-01-10 12:10:15 ERROR Timeout from 192.168.1.10
